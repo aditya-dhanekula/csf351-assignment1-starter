@@ -9,7 +9,7 @@
 int main(int argc, char *argv[])
 {
     // Read all input from stdin and write all output to stdout.
-
+    printf("test");
     // Your code goes here...
 
     return 0;
